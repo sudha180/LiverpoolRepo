@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>To verify the sorting options in Search results page</description>
+   <name>LP_Search_WEB_TC_1</name>
+   <tag>Search</tag>
+   <comment></comment>
+   <testCaseGuid>b1b46b16-a8ee-4168-ba33-9a383666a9c6</testCaseGuid>
+</TestCaseEntity>

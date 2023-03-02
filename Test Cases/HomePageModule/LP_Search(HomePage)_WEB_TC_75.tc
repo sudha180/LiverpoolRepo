@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>To verify user can logout on clicking Cerrar session</description>
+   <name>LP_Search(HomePage)_WEB_TC_75</name>
+   <tag>HP</tag>
+   <comment></comment>
+   <testCaseGuid>e1a381a5-b3c0-4a10-84c3-289db7c1a0de</testCaseGuid>
+</TestCaseEntity>

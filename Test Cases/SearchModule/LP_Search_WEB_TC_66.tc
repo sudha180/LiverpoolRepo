@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>To verify the display of spanish word in type ahead</description>
+   <name>LP_Search_WEB_TC_66</name>
+   <tag>search</tag>
+   <comment></comment>
+   <testCaseGuid>88564b69-a382-46d3-9847-8ead7b59cfeb</testCaseGuid>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>a50b4d5c-4d65-4485-9037-ff573bff3e8f</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>'Niño'</defaultValue>
+      <description></description>
+      <id>a50b4d5c-4d65-4485-9037-ff573bff3e8f</id>
+      <masked>false</masked>
+      <name>spanishTerm</name>
+   </variable>
+</TestCaseEntity>

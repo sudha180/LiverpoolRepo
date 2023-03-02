@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>To verify the navigation to the Liverpool landing page on clicking Twitter Social Networks link</description>
+   <name>LP_Search(HomePage)_WEB_TC_105</name>
+   <tag>HP</tag>
+   <comment></comment>
+   <testCaseGuid>b212b496-4912-41c3-aa3c-f7a0895959a6</testCaseGuid>
+</TestCaseEntity>

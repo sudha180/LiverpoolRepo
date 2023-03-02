@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>To verify the navigation to My Account page on clicking &lt;First Name> (for My Account) Link</description>
+   <name>LP_Search(HomePage)_WEB_TC_74</name>
+   <tag>HP</tag>
+   <comment></comment>
+   <testCaseGuid>9a3b9119-1576-4e8d-8714-d9ace435cb0d</testCaseGuid>
+</TestCaseEntity>

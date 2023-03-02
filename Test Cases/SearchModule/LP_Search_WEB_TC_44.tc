@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>To verify the searched keywords are displaying based on the Spanish dictionary.</description>
+   <name>LP_Search_WEB_TC_44</name>
+   <tag>search</tag>
+   <comment></comment>
+   <testCaseGuid>72570ccf-b313-4742-9cdd-64fd885e5aa1</testCaseGuid>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>f568ffa4-3cfc-417a-86dd-9793a4a90bfe</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>'Salf'</defaultValue>
+      <description></description>
+      <id>f568ffa4-3cfc-417a-86dd-9793a4a90bfe</id>
+      <masked>false</masked>
+      <name>searchTerm</name>
+   </variable>
+</TestCaseEntity>

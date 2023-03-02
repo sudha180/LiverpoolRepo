@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>To verify the functionality when user clicks on  Brandss in Categories section of Search Type Ahead in Header</description>
+   <name>LP_Search_WEB_TC_19</name>
+   <tag>search</tag>
+   <comment></comment>
+   <testCaseGuid>8fee3d4f-1759-41dc-8c2c-38f016abf5e2</testCaseGuid>
+</TestCaseEntity>

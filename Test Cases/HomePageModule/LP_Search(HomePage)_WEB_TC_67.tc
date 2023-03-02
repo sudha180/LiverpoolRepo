@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>To verify the navigation to the My account fluout menu</description>
+   <name>LP_Search(HomePage)_WEB_TC_67</name>
+   <tag>HP</tag>
+   <comment></comment>
+   <testCaseGuid>a2825f88-9f3e-4b3f-b04c-cb65e3b9006c</testCaseGuid>
+</TestCaseEntity>

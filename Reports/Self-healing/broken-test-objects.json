@@ -1,3 +1,44 @@
 {
-  "brokenTestObjects" : [ ]
+  "brokenTestObjects": [
+    {
+      "approved": true,
+      "testObjectId": "Object Repository/AccountManagement/span_Hola header_HP",
+      "brokenLocator": "(.//*[normalize-space(text()) and normalize-space(.)\u003d\u0027Mi Cuenta\u0027])[1]/preceding::span[1]",
+      "brokenLocatorMethod": "XPATH",
+      "proposedLocator": "(.//*[normalize-space(text()) and normalize-space(.)\u003d\u0027Mis Compras\u0027])[1]/following::span[1]",
+      "proposedLocatorMethod": "XPATH",
+      "recoveryMethod": "XPATH",
+      "pathToScreenshot": "Reports/Self-healing/Object Repository/AccountManagement/span_Hola header_HP_neighbor.png"
+    },
+    {
+      "approved": true,
+      "testObjectId": "Object Repository/HomePage/button_Map_slp",
+      "brokenLocator": "//button[@id\u003d\u00277A29A427-637D-4427-96DE-DEDE4555DD52\u0027]",
+      "brokenLocatorMethod": "XPATH",
+      "proposedLocator": "//div[@id\u003d\u0027__next\u0027]/div/div/div[2]/div/div/div/div/div/div/div[4]/div/div/button",
+      "proposedLocatorMethod": "XPATH",
+      "recoveryMethod": "XPATH",
+      "pathToScreenshot": "Reports/Self-healing/Object Repository/HomePage/button_Map_slp_idRelative.png"
+    },
+    {
+      "approved": true,
+      "testObjectId": "Object Repository/HomePage/Page_Liverpool es parte de Mi vida/primaryBanner_hp",
+      "brokenLocator": "//section[@id\u003d\u0027bannerNo-1\u0027]",
+      "brokenLocatorMethod": "XPATH",
+      "proposedLocator": "//picture/img",
+      "proposedLocatorMethod": "XPATH",
+      "recoveryMethod": "XPATH",
+      "pathToScreenshot": "Reports/Self-healing/Object Repository/HomePage/Page_Liverpool es parte de Mi vida/primaryBanner_hp_position.png"
+    },
+    {
+      "approved": true,
+      "testObjectId": "Object Repository/HomePage/primaryBanner_hp",
+      "brokenLocator": "//section[@class\u003d\u0027o-mainBanner row\u0027]//img[@id\u003d\u0027mainBanner\u0027]",
+      "brokenLocatorMethod": "XPATH",
+      "proposedLocator": "//section[@id\u003d\u0027bannerNo-1\u0027]",
+      "proposedLocatorMethod": "XPATH",
+      "recoveryMethod": "XPATH",
+      "pathToScreenshot": "Reports/Self-healing/Object Repository/HomePage/primaryBanner_hp_idRelative.png"
+    }
+  ]
 }

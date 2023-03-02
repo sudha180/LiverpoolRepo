@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_Tarjetas de Crdito  DbitoMis ComprasCup_485b90</name>
+   <tag></tag>
+   <elementGuidId>350137fd-7f64-4dcf-8028-528d13351f4e</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='__next']/div/div/div[5]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>div.row.mt-lg-3.m-row-bootstrap</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>56c47000-6eed-43fe-a99e-f82ae4959e12</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>row mt-lg-3 m-row-bootstrap</value>
+      <webElementGuid>107aec86-9c97-468e-ae50-e7e85027450c</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Tarjetas de Crédito / DébitoMis ComprasCuponesCrédito y Pagos  Mi crédito    Facturación Electrónica    Monedero digital    Mis formas de pago  Datos de mi cuenta  Actualizar Datos Personales    Direcciones de Entrega    Teléfonos Celulares      Te EscuchamosSuburbia visa*4665PredeterminadaEditar   Alias de tarjetaEj. Tarjeta Liverpool rosa Master*8888Seleccionar como predeterminadaEditarEliminaruuyyuiyi*7403Seleccionar como predeterminadaEditarEliminarwerwreewrew*2342Seleccionar como predeterminadaEditarEliminarMastercard*7571Seleccionar como predeterminadaEditarEliminar   Alias de tarjetaEj. Tarjeta Liverpool rosa Mastercard*6351Seleccionar como predeterminadaEditarEliminar   Alias de tarjetaEj. Tarjeta Liverpool rosa Visa*8881Seleccionar como predeterminadaEditarEliminar   Alias de tarjetaEj. Tarjeta Liverpool rosa test*8678Seleccionar como predeterminadaEditarEliminarAgregar tarjetaAgregar tarjetaEliminar tarjeta¿Estás seguro que deseas eliminar esta tarjeta?Aceptar</value>
+      <webElementGuid>d5f5dba7-2d5e-411a-9f2b-8eccd7f6747c</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;__next&quot;)/div[@class=&quot;container-fluid o-main-container p-0&quot;]/div[@class=&quot;container o-container__secondary&quot;]/div[@class=&quot;row mt-lg-3 m-row-bootstrap&quot;]</value>
+      <webElementGuid>80c202df-d212-4408-863f-711c9127419d</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='__next']/div/div/div[5]</value>
+      <webElementGuid>71a8f12f-2de1-4636-b0a1-75d7678ff79d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Tarjetas de Crédito / Débito'])[2]/following::div[1]</value>
+      <webElementGuid>30cbcf40-976a-40d8-9859-4f6daf606200</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Tarjetas de Crédito / Débito'])[1]/following::div[4]</value>
+      <webElementGuid>6f4bb1f4-c53c-4c20-868c-4d8f358cbe8e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div/div/div/div[5]</value>
+      <webElementGuid>81d96bd4-00f4-442d-8734-3206ac558702</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = 'Tarjetas de Crédito / DébitoMis ComprasCuponesCrédito y Pagos  Mi crédito    Facturación Electrónica    Monedero digital    Mis formas de pago  Datos de mi cuenta  Actualizar Datos Personales    Direcciones de Entrega    Teléfonos Celulares      Te EscuchamosSuburbia visa*4665PredeterminadaEditar   Alias de tarjetaEj. Tarjeta Liverpool rosa Master*8888Seleccionar como predeterminadaEditarEliminaruuyyuiyi*7403Seleccionar como predeterminadaEditarEliminarwerwreewrew*2342Seleccionar como predeterminadaEditarEliminarMastercard*7571Seleccionar como predeterminadaEditarEliminar   Alias de tarjetaEj. Tarjeta Liverpool rosa Mastercard*6351Seleccionar como predeterminadaEditarEliminar   Alias de tarjetaEj. Tarjeta Liverpool rosa Visa*8881Seleccionar como predeterminadaEditarEliminar   Alias de tarjetaEj. Tarjeta Liverpool rosa test*8678Seleccionar como predeterminadaEditarEliminarAgregar tarjetaAgregar tarjetaEliminar tarjeta¿Estás seguro que deseas eliminar esta tarjeta?Aceptar' or . = 'Tarjetas de Crédito / DébitoMis ComprasCuponesCrédito y Pagos  Mi crédito    Facturación Electrónica    Monedero digital    Mis formas de pago  Datos de mi cuenta  Actualizar Datos Personales    Direcciones de Entrega    Teléfonos Celulares      Te EscuchamosSuburbia visa*4665PredeterminadaEditar   Alias de tarjetaEj. Tarjeta Liverpool rosa Master*8888Seleccionar como predeterminadaEditarEliminaruuyyuiyi*7403Seleccionar como predeterminadaEditarEliminarwerwreewrew*2342Seleccionar como predeterminadaEditarEliminarMastercard*7571Seleccionar como predeterminadaEditarEliminar   Alias de tarjetaEj. Tarjeta Liverpool rosa Mastercard*6351Seleccionar como predeterminadaEditarEliminar   Alias de tarjetaEj. Tarjeta Liverpool rosa Visa*8881Seleccionar como predeterminadaEditarEliminar   Alias de tarjetaEj. Tarjeta Liverpool rosa test*8678Seleccionar como predeterminadaEditarEliminarAgregar tarjetaAgregar tarjetaEliminar tarjeta¿Estás seguro que deseas eliminar esta tarjeta?Aceptar')]</value>
+      <webElementGuid>d448a5c7-1078-4d6f-a73f-2d7e103ef8d3</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>img_Ver ms_a_banner_img lazyloaded</name>
+   <tag></tag>
+   <elementGuidId>ca2960b7-f70d-4648-a060-e27d3e4768a4</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='bannerNo-2']/section/div/div/a/picture/img</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>a.m-mainBanner__link > picture > img.a_banner_img.lazyloaded</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>img</value>
+      <webElementGuid>d05405e0-8baf-46c3-884a-ff4682f39e93</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>a_banner_img lazyloaded</value>
+      <webElementGuid>7fc79e46-8565-4878-af93-300c80885611</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>src</name>
+      <type>Main</type>
+      <value>https://assetspwa.liverpool.com.mx/assets/digital/home/img/ago22/bpromo01a_010822mbb.jpg</value>
+      <webElementGuid>5d259d37-0af4-4a89-ac1b-ebef287102d1</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>alt</name>
+      <type>Main</type>
+      <value>Muebles para bebés | Liverpool | Liverpool</value>
+      <webElementGuid>01b2f8b4-6155-4324-a2aa-64fe25f33d4d</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>title</name>
+      <type>Main</type>
+      <value>Muebles para bebés | Liverpool</value>
+      <webElementGuid>94bc2237-d571-4723-8c5e-5d95f144bdb0</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;bannerNo-2&quot;)/section[@class=&quot;o-container-banners my-0&quot;]/div[@class=&quot;o-container-promos&quot;]/div[@class=&quot;m-banners h-450&quot;]/a[@class=&quot;m-mainBanner__link&quot;]/picture[1]/img[@class=&quot;a_banner_img lazyloaded&quot;]</value>
+      <webElementGuid>431b9443-3c0c-4a30-b4ac-67af809593a1</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='bannerNo-2']/section/div/div/a/picture/img</value>
+      <webElementGuid>bfffa7fb-6bf6-4e38-b2a2-e4bad2eae60c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:img</name>
+      <type>Main</type>
+      <value>//img[@alt='Muebles para bebés | Liverpool | Liverpool']</value>
+      <webElementGuid>db2004b5-a5c0-408f-bc8c-9295e0a4aee5</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div/div/a/picture/img</value>
+      <webElementGuid>1b8f0993-78c4-4122-8d01-a53d7054e9a2</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//img[@src = 'https://assetspwa.liverpool.com.mx/assets/digital/home/img/ago22/bpromo01a_010822mbb.jpg' and @alt = 'Muebles para bebés | Liverpool | Liverpool' and @title = 'Muebles para bebés | Liverpool']</value>
+      <webElementGuid>d7da5b8f-ed8a-4773-b5f0-6522c2182d87</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

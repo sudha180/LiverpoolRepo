@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>To verify that user should land on the category landing page upon clicking  'Ver Mas +' link under L3 category.</description>
+   <name>LP_Search(HomePage)_WEB_TC_61</name>
+   <tag>HP</tag>
+   <comment></comment>
+   <testCaseGuid>523227b7-dae3-4c6b-b449-21889848a75f</testCaseGuid>
+</TestCaseEntity>

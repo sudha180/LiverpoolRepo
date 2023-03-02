@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>To verify the display of products in Search results page based on relevance sorting by default</description>
+   <name>LP_Search_WEB_TC_2</name>
+   <tag>search</tag>
+   <comment></comment>
+   <testCaseGuid>e0f212fd-fa5e-4dae-ae6f-fd1d309667ff</testCaseGuid>
+</TestCaseEntity>

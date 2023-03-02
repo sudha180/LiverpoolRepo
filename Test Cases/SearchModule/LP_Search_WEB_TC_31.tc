@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>To verify that the user is able to sort products by relevance</description>
+   <name>LP_Search_WEB_TC_31</name>
+   <tag>search</tag>
+   <comment></comment>
+   <testCaseGuid>bf0d2686-ac6e-43c8-ab44-126d8b9dd06d</testCaseGuid>
+</TestCaseEntity>

@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>typeAheadLeftNav_hp</name>
+   <tag></tag>
+   <elementGuidId>c266d0ac-e5bc-4db6-a27d-2c1b8ebbf8b1</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>div.m-header__searchLinkResult</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='__next']/header/div[4]/div[2]/div/div/div/div[3]/div[2]/div/div/div/div[2]/div/div</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>b59f5a91-0d2a-4cb6-b521-f4b3cdce62ba</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>m-header__searchLinkResult</value>
+      <webElementGuid>5419139a-ea02-47b5-93c6-c341eb886c3e</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>vasovaso old fashionvaso high ballvapora vaporBuscar en MarcasVASCONIABuscar en Categoríasvaso en HogarNewvaso en Bebésvaso en Aventvaso en Linea Blancavaso en HogarNew</value>
+      <webElementGuid>93265157-c502-4f4c-a560-636b69460432</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;__next&quot;)/header[1]/div[@class=&quot;o-header&quot;]/div[@class=&quot;o-container__fluid container-fluid&quot;]/div[@class=&quot;o-container container p-0&quot;]/div[@class=&quot;m-searchBar&quot;]/div[@class=&quot;o-checkout__header o-row row align-items-center no-gutters py-3 py-lg-2&quot;]/div[@class=&quot;o-col col-lg order-4 order-lg-2 pt-3 pt-lg-0&quot;]/div[@class=&quot;m-typeahead&quot;]/div[@class=&quot;container&quot;]/div[@class=&quot;row&quot;]/div[@class=&quot;col-lg-4 col-12 results&quot;]/div[@class=&quot;row&quot;]/div[@class=&quot;col-12&quot;]/div[@class=&quot;m-header__searchLinkResult&quot;]</value>
+      <webElementGuid>825568a4-2347-429c-a0fc-2ba2f688200d</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='__next']/header/div[4]/div[2]/div/div/div/div[3]/div[2]/div/div/div/div[2]/div/div</value>
+      <webElementGuid>a7714da3-73c4-4a86-a7d9-0abae7cf4603</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Banana Republic'])[1]/following::div[25]</value>
+      <webElementGuid>a981a979-ddc1-4e20-bea9-d7169fbde07e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='GAP'])[1]/following::div[26]</value>
+      <webElementGuid>de571d07-78f4-4e7c-b16e-350a81d84a4b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/div/div/div/div[2]/div/div</value>
+      <webElementGuid>f3e2603c-7b08-476a-8b96-aa372bb8b9eb</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = 'vasovaso old fashionvaso high ballvapora vaporBuscar en MarcasVASCONIABuscar en Categoríasvaso en HogarNewvaso en Bebésvaso en Aventvaso en Linea Blancavaso en HogarNew' or . = 'vasovaso old fashionvaso high ballvapora vaporBuscar en MarcasVASCONIABuscar en Categoríasvaso en HogarNewvaso en Bebésvaso en Aventvaso en Linea Blancavaso en HogarNew')]</value>
+      <webElementGuid>36962a60-2577-4c5c-a44b-5678cd2055ba</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

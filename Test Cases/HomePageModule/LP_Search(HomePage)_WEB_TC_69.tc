@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>To verify the navigation to Gift registry page on clicking  Mesa de Regalos Link in the header</description>
+   <name>LP_Search(HomePage)_WEB_TC_69</name>
+   <tag>HP</tag>
+   <comment></comment>
+   <testCaseGuid>a716771c-5013-4532-8282-2f446fe7bfb1</testCaseGuid>
+</TestCaseEntity>

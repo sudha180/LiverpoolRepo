@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>To verify the flyout when the user hovers the mouse over the L1 category.</description>
+   <name>LP_Search(HomePage)_WEB_TC_59</name>
+   <tag>HP</tag>
+   <comment></comment>
+   <testCaseGuid>f719bba3-b062-49c4-8115-39d59e9f3126</testCaseGuid>
+</TestCaseEntity>

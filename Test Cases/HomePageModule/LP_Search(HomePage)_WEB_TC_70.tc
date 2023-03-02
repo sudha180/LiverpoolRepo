@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>To verify the navigation to store location page on clicking &quot;Store locater&quot;  link</description>
+   <name>LP_Search(HomePage)_WEB_TC_70</name>
+   <tag>HP</tag>
+   <comment></comment>
+   <testCaseGuid>cf3d7a4a-047a-43ae-a2f8-9a8dfddb8754</testCaseGuid>
+</TestCaseEntity>

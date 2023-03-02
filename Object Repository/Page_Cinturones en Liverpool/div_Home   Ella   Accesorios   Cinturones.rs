@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_Home   Ella   Accesorios   Cinturones</name>
+   <tag></tag>
+   <elementGuidId>a689a8cf-9062-4ac8-9e4a-bca30e3d3114</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>div.row.d-none.d-lg-block.m-row-bootstrap</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='__next']/div/div/div/div[3]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>19a034f0-d690-4d92-b11a-17e0531310f8</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>row d-none d-lg-block m-row-bootstrap</value>
+      <webElementGuid>1af34cff-a762-4622-8699-cb5988961882</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>  Home   Ella   Accesorios   Cinturones  </value>
+      <webElementGuid>8e7bc616-d84e-4ac4-9abb-9568170d16c0</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;__next&quot;)/div[@class=&quot;min-vh-100&quot;]/div[@class=&quot;container-fluid o-main-container p-0 o-plp-secondaryContainer&quot;]/div[@class=&quot;container o-container__secondary search---&quot;]/div[@class=&quot;row d-none d-lg-block m-row-bootstrap&quot;]</value>
+      <webElementGuid>192474fd-286a-4b16-a0ba-7d51a9839431</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='__next']/div/div/div/div[3]</value>
+      <webElementGuid>631e5d9e-bed2-48a2-8b37-88f61eff0bc3</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Filtrar'])[1]/following::div[3]</value>
+      <webElementGuid>ce6b6ad2-aaaa-40bc-9e2e-ca7b1ca2589e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Más vendido'])[1]/following::div[5]</value>
+      <webElementGuid>3cf82f73-b728-42b2-86a4-73ea47ecd151</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div/div/div/div/div[3]</value>
+      <webElementGuid>f29b8e82-3856-4280-a157-6ed55c9acdaf</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = '  Home   Ella   Accesorios   Cinturones  ' or . = '  Home   Ella   Accesorios   Cinturones  ')]</value>
+      <webElementGuid>70ea424b-3a95-4925-8621-32054f7bb58c</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

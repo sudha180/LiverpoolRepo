@@ -1,0 +1,147 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>a_Menor precio</name>
+   <tag></tag>
+   <elementGuidId>993071d2-2f1e-4aaa-b44d-39fc4c395d93</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>div.col-lg-4.col-xl-3.mb-4.pr-2.pl-0 > div.m-dropdown > div.dropdown > #sortby</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>(//a[@id='sortby'])[2]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>a</value>
+      <webElementGuid>11d7167e-ac5c-4430-a3f8-5ee46c50a8d9</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>btn dropdown-toggle sortBy</value>
+      <webElementGuid>8cbf2349-5951-4631-9be4-91f3df69563e</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>id</name>
+      <type>Main</type>
+      <value>sortby</value>
+      <webElementGuid>0344a514-3f48-449c-8047-1a2d2192aeeb</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>href</name>
+      <type>Main</type>
+      <value>/tienda?st=sortPrice|0&amp;s=vaso#!</value>
+      <webElementGuid>67f69010-2b11-44c5-a6e5-409360cfea97</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Menor precio</value>
+      <webElementGuid>0dca30da-1b76-47f3-8b6a-83aa9f1be086</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;__next&quot;)/div[@class=&quot;min-vh-100&quot;]/div[@class=&quot;container-fluid o-main-container p-0 o-plp-secondaryContainer&quot;]/div[@class=&quot;container o-container__secondary search---&quot;]/div[@class=&quot;row mt-lg-3 m-row-bootstrap&quot;]/main[@class=&quot;col-lg-9 m-column_mainContent&quot;]/div[@class=&quot;row&quot;]/div[@class=&quot;col-lg-12 d-none d-lg-block pr-1 pr-1 pl-lg-1 pr-lg-1&quot;]/div[@class=&quot;d-flex align-items-center&quot;]/div[@class=&quot;col-lg-4 col-xl-3 mb-4 pr-2 pl-0&quot;]/div[@class=&quot;m-dropdown&quot;]/div[@class=&quot;dropdown&quot;]/a[@id=&quot;sortby&quot;]</value>
+      <webElementGuid>ff2ec851-6fcb-4932-964a-25e2e1a17645</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>(//a[@id='sortby'])[2]</value>
+      <webElementGuid>18b5a09a-5db1-4606-a2db-55c7ffe3826a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='__next']/div/div/div/div[4]/main/div/div/div/div/div/div/a</value>
+      <webElementGuid>ed258172-d1b9-477d-9b29-b48cd916714c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:link</name>
+      <type>Main</type>
+      <value>(//a[contains(text(),'Menor precio')])[2]</value>
+      <webElementGuid>211b92e4-e406-4e7a-ba2f-0f9aa711c4a2</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Suburbia (1)'])[1]/following::a[1]</value>
+      <webElementGuid>1ee07d17-9153-40b9-9ed0-5eb94dd02a70</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Pottery Barn (1)'])[1]/following::a[1]</value>
+      <webElementGuid>818c8a2d-2f11-4f9f-a453-fb1e51bb47cf</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Relevancia'])[2]/preceding::a[1]</value>
+      <webElementGuid>e1bb554c-1051-4c0c-a1ea-1a938ac9619a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Lo Más Nuevo'])[2]/preceding::a[1]</value>
+      <webElementGuid>6d239519-06a8-4f8a-8359-768c22e1b4ec</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:href</name>
+      <type>Main</type>
+      <value>(//a[contains(@href, '/tienda?st=sortPrice|0&amp;s=vaso#!')])[189]</value>
+      <webElementGuid>1e2a8222-ad7a-4af5-ad37-fc7f9db160b5</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//main/div/div/div/div/div/div/a</value>
+      <webElementGuid>4d9977e5-5d0c-43d1-92a4-908ac49fe3e7</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//a[@id = 'sortby' and @href = '/tienda?st=sortPrice|0&amp;s=vaso#!' and (text() = 'Menor precio' or . = 'Menor precio')]</value>
+      <webElementGuid>92422915-e310-42b6-9d71-cabf46784cd2</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

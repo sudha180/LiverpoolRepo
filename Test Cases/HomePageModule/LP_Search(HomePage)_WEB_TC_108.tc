@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>To verify the navigation to Terms and Conditions static page in new window on clicking Términos y condiciones(Terms and Conditions) link</description>
+   <name>LP_Search(HomePage)_WEB_TC_108</name>
+   <tag>HP</tag>
+   <comment></comment>
+   <testCaseGuid>f97667ad-8d78-4801-92e7-b5d2127504a5</testCaseGuid>
+</TestCaseEntity>

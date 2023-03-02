@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>To verify the display of top products  in products section of Search Type Ahead in Header</description>
+   <name>LP_Search_WEB_TC_62</name>
+   <tag>search</tag>
+   <comment></comment>
+   <testCaseGuid>a1decb75-68af-4edc-8ef6-8d4ad231213e</testCaseGuid>
+</TestCaseEntity>

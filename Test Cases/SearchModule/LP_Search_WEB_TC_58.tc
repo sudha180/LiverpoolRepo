@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>To verify the functionality when user clicks on  Categories in Categories section of Search Type Ahead in Header</description>
+   <name>LP_Search_WEB_TC_58</name>
+   <tag>search</tag>
+   <comment></comment>
+   <testCaseGuid>36d6b61f-58da-47a4-a75a-c49818a63f87</testCaseGuid>
+</TestCaseEntity>

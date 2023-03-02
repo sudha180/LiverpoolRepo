@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>carousel1Price_hp</name>
+   <tag></tag>
+   <elementGuidId>917ffa03-3619-4f45-bceb-a563475f1627</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>p.a-card-discount</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='carouselNo-2']/div[2]/div/div/div/div/div/a/figure/figcaption/div/p[2]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>p</value>
+      <webElementGuid>5f824b28-f959-49f4-b2eb-00cc138c8ab5</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>a-card-discount</value>
+      <webElementGuid>9573110b-c195-467d-865d-0e3097c6fff8</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>$3500</value>
+      <webElementGuid>2e5e1253-850d-4e46-9e43-7e8bd232fb56</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;carouselNo-2&quot;)/div[@class=&quot;slick-slider slick-initialized&quot;]/div[@class=&quot;slick-list&quot;]/div[@class=&quot;slick-track&quot;]/div[@class=&quot;slick-slide slick-active slick-current&quot;]/div[1]/div[@class=&quot;item&quot;]/a[1]/figure[@class=&quot;card m-card ma-figure&quot;]/figcaption[@class=&quot;card-body d-flex flex-column align-items-start pa-carousel&quot;]/div[@class=&quot;d-flex flex-row m-ca-card-price align-items-center&quot;]/p[@class=&quot;a-card-discount&quot;]</value>
+      <webElementGuid>cb4be595-21bd-4242-aff7-2b4eafd19511</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='carouselNo-2']/div[2]/div/div/div/div/div/a/figure/figcaption/div/p[2]</value>
+      <webElementGuid>6da847ff-fa09-4b66-8c11-d7e8858d4b0d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Ver más'])[1]/following::p[3]</value>
+      <webElementGuid>a261b5a6-49e9-480f-adf8-9dd689fca9f1</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Bolsas hasta 60% de descuento'])[1]/following::p[3]</value>
+      <webElementGuid>3bcc2783-69ff-439e-b80e-5fee27ac3184</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Mujer'])[1]/preceding::p[50]</value>
+      <webElementGuid>2f603874-3ebc-4cf9-a713-89affc26704f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='%'])[6]/preceding::p[51]</value>
+      <webElementGuid>31ed959a-c6dc-4c1b-9eab-db922baf6ed7</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//figcaption/div/p[2]</value>
+      <webElementGuid>c5230634-d1c3-491a-bf66-b6ecd28820c4</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//p[(text() = '$3500' or . = '$3500')]</value>
+      <webElementGuid>a9b11edf-9497-4318-b742-a9adb9a1e34a</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

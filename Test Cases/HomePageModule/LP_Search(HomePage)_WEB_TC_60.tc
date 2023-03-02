@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>To verify the display of the 'Ver Mas +' link under the L3 category when there are more child Categories.</description>
+   <name>LP_Search(HomePage)_WEB_TC_60</name>
+   <tag>HP</tag>
+   <comment></comment>
+   <testCaseGuid>cd267b88-850b-4f02-9e00-8033e66dea13</testCaseGuid>
+</TestCaseEntity>

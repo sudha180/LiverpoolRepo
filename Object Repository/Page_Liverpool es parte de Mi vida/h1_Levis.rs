@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>h1_Levis</name>
+   <tag></tag>
+   <elementGuidId>a2e1b10e-530b-490b-8ab7-e1899e94dbd2</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>div.banner-promo02c-desc.category.white > h1</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='bannerNo-3']/section/div[3]/a/div/h1</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>h1</value>
+      <webElementGuid>1efda965-dbb0-43cf-aec0-b73a734180f9</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Levi's</value>
+      <webElementGuid>4d268c22-2d5d-42c1-b845-0620086d497b</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;bannerNo-3&quot;)/section[@class=&quot;o-promoOne container-fluid&quot;]/div[@class=&quot;m-banners&quot;]/a[@class=&quot;m-mainBanner__link&quot;]/div[@class=&quot;banner-promo02c-desc category white&quot;]/h1[1]</value>
+      <webElementGuid>7d8777c8-a9ae-40bc-a009-fd7b83ba9c0f</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='bannerNo-3']/section/div[3]/a/div/h1</value>
+      <webElementGuid>efe8d74a-590d-4c54-b50c-9af3bd13afa0</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='%'])[7]/following::h1[1]</value>
+      <webElementGuid>ddf5d94f-cddd-464c-968c-d228bfe11997</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Hombre'])[1]/following::h1[1]</value>
+      <webElementGuid>f55ec3d4-a824-45fa-b0e9-1307c7c80e7d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='%'])[8]/preceding::h1[1]</value>
+      <webElementGuid>ca32d16e-339f-4029-9334-a36f5419ee82</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Deportes'])[1]/preceding::h1[1]</value>
+      <webElementGuid>f9701cab-9867-4f12-b7aa-18aa493a0104</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[3]/a/div/h1</value>
+      <webElementGuid>cc359650-9a4c-4ad5-9345-86cacae2336b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//h1[(text() = concat(&quot;Levi&quot; , &quot;'&quot; , &quot;s&quot;) or . = concat(&quot;Levi&quot; , &quot;'&quot; , &quot;s&quot;))]</value>
+      <webElementGuid>f1aa17fb-3286-44c9-be0a-1ec76e9c3360</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

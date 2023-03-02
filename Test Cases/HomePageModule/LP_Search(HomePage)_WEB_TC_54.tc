@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>To verify the functionality of Register button in Home Page for anonymous user</description>
+   <name>LP_Search(HomePage)_WEB_TC_54</name>
+   <tag>HP</tag>
+   <comment></comment>
+   <testCaseGuid>c8f279e7-3419-44b5-87dc-bce71f9f9c3b</testCaseGuid>
+</TestCaseEntity>

@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>To verify the search message displayed on the search results page.</description>
+   <name>LP_Search_WEB_TC_39</name>
+   <tag>search</tag>
+   <comment></comment>
+   <testCaseGuid>eaf12dbc-62b7-4b1a-95cc-94717d9529e5</testCaseGuid>
+</TestCaseEntity>

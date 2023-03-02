@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>To verify the navigation to the Liverpool landing page  on clicking  Facebook Social Networks link</description>
+   <name>LP_Search(HomePage)_WEB_TC_104</name>
+   <tag>HP</tag>
+   <comment></comment>
+   <testCaseGuid>a047a3db-d535-4b73-849c-da203f317676</testCaseGuid>
+</TestCaseEntity>

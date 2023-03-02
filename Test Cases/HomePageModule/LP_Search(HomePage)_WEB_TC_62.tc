@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>To verify that user is navigated to the root category landing page upon clicking any of the L1 categories</description>
+   <name>LP_Search(HomePage)_WEB_TC_62</name>
+   <tag>HP</tag>
+   <comment></comment>
+   <testCaseGuid>5adaaf88-a03f-4654-a381-72b1a31ab3f0</testCaseGuid>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>31f393c4-e659-4258-b6ee-81289f7cf5b2</variableId>
+   </variableLinks>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>46096ffa-f2d3-43c9-a6b8-022bc12034db</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>31f393c4-e659-4258-b6ee-81289f7cf5b2</id>
+      <masked>false</masked>
+      <name>L1CategoryName</name>
+   </variable>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>46096ffa-f2d3-43c9-a6b8-022bc12034db</id>
+      <masked>false</masked>
+      <name>CLPUrl</name>
+   </variable>
+</TestCaseEntity>

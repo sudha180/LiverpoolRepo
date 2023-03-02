@@ -1,0 +1,139 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>a_Bolsa de trabajo_hp</name>
+   <tag></tag>
+   <elementGuidId>1fbe16e9-690f-480c-b354-b896a5c09ebc</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='#collapseAboutUss']/div/ul/li/a</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>a</value>
+      <webElementGuid>fd1f1530-87d8-47fa-8057-f42f8d8709e1</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>a-footer__link</value>
+      <webElementGuid>788a8214-42d0-4e79-9e8f-5ce418d0d4c6</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>href</name>
+      <type>Main</type>
+      <value>https://tucarrera-elpuertode.liverpool.com.mx/vida-en-el-puerto?_ga=2.132609548.341826744.1668396130-175376040.1668396130</value>
+      <webElementGuid>bd102d46-b12b-43ec-83de-9ce124244094</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Bolsa de trabajo</value>
+      <webElementGuid>7aa79a60-d6e5-4ce4-a1d1-2005f3774bfb</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;#collapseAboutUss&quot;)/div[@class=&quot;card-body pt-0 pb-lg-0&quot;]/ul[@class=&quot;m-0&quot;]/li[@class=&quot;p-0&quot;]/a[@class=&quot;a-footer__link&quot;]</value>
+      <webElementGuid>b0837985-de29-42b6-a5c1-e68014085849</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='#collapseAboutUss']/div/ul/li/a</value>
+      <webElementGuid>ccf1f56d-a536-4cf2-b2f9-e0d407cb7369</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:link</name>
+      <type>Main</type>
+      <value>//a[contains(text(),'Bolsa de trabajo')]</value>
+      <webElementGuid>5839a489-1955-48c8-8500-be6446f60210</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Acerca de Liverpool'])[1]/following::a[1]</value>
+      <webElementGuid>0c9b8b1e-b7fa-42f0-b7ac-ae9bbbd95b56</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Ventas Corporativas'])[1]/following::a[1]</value>
+      <webElementGuid>2731250d-a9c2-4455-95d7-1b53690e44cc</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='¿Quiénes somos?'])[1]/preceding::a[1]</value>
+      <webElementGuid>7acc595d-ac3b-4c47-acac-ebb928423f33</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Relación con inversionistas'])[1]/preceding::a[2]</value>
+      <webElementGuid>fbdce4d5-5afb-4e89-ab43-71286b451a71</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Bolsa de trabajo']/parent::*</value>
+      <webElementGuid>79c40f2e-377a-4c88-872b-8e313a2ec6ca</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:href</name>
+      <type>Main</type>
+      <value>//a[contains(@href, 'https://tucarrera-elpuertode.liverpool.com.mx/vida-en-el-puerto?_ga=2.132609548.341826744.1668396130-175376040.1668396130')]</value>
+      <webElementGuid>033408cd-2dc7-47bc-a8f1-232f92f44384</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[3]/div/div[2]/div/ul/li/a</value>
+      <webElementGuid>b1cf7a1e-606b-4199-ac5d-4b1098343fce</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//a[@href = 'https://tucarrera-elpuertode.liverpool.com.mx/vida-en-el-puerto?_ga=2.132609548.341826744.1668396130-175376040.1668396130' and (text() = 'Bolsa de trabajo' or . = 'Bolsa de trabajo')]</value>
+      <webElementGuid>99f0a7ef-9daf-4eef-b239-6736509fcb15</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>To verify the display of the &quot;Auto correct&quot; search term to the nearest match when no results are found</description>
+   <name>LP_Search_WEB_TC_43</name>
+   <tag>search</tag>
+   <comment></comment>
+   <testCaseGuid>3ec8a179-20da-4cb2-b5f7-36bc4e4bb197</testCaseGuid>
+</TestCaseEntity>

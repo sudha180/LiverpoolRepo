@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>To verify the display of Register now button in Home Page for anonymous user</description>
+   <name>LP_Search(HomePage)_WEB_TC_53</name>
+   <tag>HP</tag>
+   <comment></comment>
+   <testCaseGuid>f3e5c095-4526-4b30-8b44-70b93328b731</testCaseGuid>
+</TestCaseEntity>

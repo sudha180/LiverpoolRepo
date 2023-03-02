@@ -1,0 +1,131 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>button_Crear Mesa de Regalos_grHome</name>
+   <tag></tag>
+   <elementGuidId>bc24521b-37ce-4b8e-b559-3304abd301d8</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>(//button[@type='button'])[5]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>button.btnSecondary.btnExtraLarge</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>button</value>
+      <webElementGuid>89867df8-155b-406a-bb64-6bd894d985ae</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>btnSecondary btnExtraLarge</value>
+      <webElementGuid>48af5a90-7e54-4b68-adf0-651e80aae53e</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>type</name>
+      <type>Main</type>
+      <value>button</value>
+      <webElementGuid>a64ef00b-e76f-418c-aff5-d155c6014f78</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>aria-hidden</name>
+      <type>Main</type>
+      <value>false</value>
+      <webElementGuid>dbded230-cb25-419d-b8dd-b6e1abd7fe0b</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value> Crear Mesa de Regalos </value>
+      <webElementGuid>702c1895-ce87-4993-b111-c655c134a3f3</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;content&quot;)/div[@class=&quot;container-fluid&quot;]/div[@id=&quot;mainBanner&quot;]/div[@id=&quot;mainBanner&quot;]/div[@class=&quot;row&quot;]/div[@class=&quot;col-md-4 col-sm-4 main-buttons nop&quot;]/div[@id=&quot;loginForm&quot;]/div[@id=&quot;loginForm&quot;]/button[@class=&quot;btnSecondary btnExtraLarge&quot;]</value>
+      <webElementGuid>0b87b0ae-3395-4914-9cc2-66e46bf319c9</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>(//button[@type='button'])[5]</value>
+      <webElementGuid>2cdce8b7-c14f-4b15-bd46-234466f95358</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='loginForm']/button[2]</value>
+      <webElementGuid>a3d64bbb-6aaf-470c-94ab-d3296aec5e6c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Te escuchamos'])[1]/following::button[2]</value>
+      <webElementGuid>80e1a9fd-0751-4184-aeba-3e4d83d34271</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Entrar a mi mesa'])[1]/preceding::button[1]</value>
+      <webElementGuid>5472a54a-74fb-47bf-9487-ad90aad92449</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Consultar Estado de Cuenta'])[1]/preceding::button[1]</value>
+      <webElementGuid>f4455fc3-235e-43c0-a792-af86cc8d2443</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Crear Mesa de Regalos']/parent::*</value>
+      <webElementGuid>849ed965-826a-41b3-be28-700f75eabe75</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//button[2]</value>
+      <webElementGuid>dd14e814-e08a-4ca2-8cfd-f33a13e99549</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//button[@type = 'button' and (text() = ' Crear Mesa de Regalos ' or . = ' Crear Mesa de Regalos ')]</value>
+      <webElementGuid>ce00e23d-253a-4348-9ebd-a90d24d366c5</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>To Verify the display of Principal  Banner  carousel  in Home Page for logged-in/anonymous user which is configured in command center</description>
+   <name>LP_Search(HomePage)_WEB_TC_2</name>
+   <tag>HP</tag>
+   <comment></comment>
+   <testCaseGuid>f8fd3948-55c4-4960-acdd-9b97dbc499d4</testCaseGuid>
+</TestCaseEntity>

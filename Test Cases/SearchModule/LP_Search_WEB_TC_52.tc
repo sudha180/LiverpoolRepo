@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>To verify the display of Categories section of Search Type Ahead in Header</description>
+   <name>LP_Search_WEB_TC_52</name>
+   <tag>search</tag>
+   <comment></comment>
+   <testCaseGuid>9bce1a71-631c-4351-8836-15dcca1fa424</testCaseGuid>
+</TestCaseEntity>

@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>To verify that user is navigated to the category landing page upon clicking any of the child categories of L3 categories.</description>
+   <name>LP_Search(HomePage)_WEB_TC_63</name>
+   <tag>HP</tag>
+   <comment></comment>
+   <testCaseGuid>50d637f3-1e80-4326-9ae3-109179663543</testCaseGuid>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>e02168f4-b655-4139-8909-2eff8390a1a2</id>
+      <masked>false</masked>
+      <name>CLPUrl</name>
+   </variable>
+</TestCaseEntity>

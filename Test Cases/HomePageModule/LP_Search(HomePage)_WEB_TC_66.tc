@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>To verify the  functionality of the  Iniciar Sesion Link in the mega menu for the anonymous user.</description>
+   <name>LP_Search(HomePage)_WEB_TC_66</name>
+   <tag>HP</tag>
+   <comment></comment>
+   <testCaseGuid>d57fbf6a-1159-495e-82ea-71e64e75bdb6</testCaseGuid>
+</TestCaseEntity>

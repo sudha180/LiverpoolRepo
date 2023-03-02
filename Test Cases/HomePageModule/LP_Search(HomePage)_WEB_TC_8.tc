@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>To verify the UI of Cartridge A slot for both Most Viewed and Most Sold in Home Page  of selected category for logged-in/anonymous user which is configured in command center</description>
+   <name>LP_Search(HomePage)_WEB_TC_8</name>
+   <tag>HP</tag>
+   <comment></comment>
+   <testCaseGuid>5c398167-b9c9-478f-bbb9-625d3ff2a78d</testCaseGuid>
+</TestCaseEntity>

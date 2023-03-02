@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>To verify the navigation to Privacy Notice static page in a new window on clicking Aviso de Privacidad(Privacy Notice) link</description>
+   <name>LP_Search(HomePage)_WEB_TC_109</name>
+   <tag>HP</tag>
+   <comment></comment>
+   <testCaseGuid>54121245-9412-4dc5-98f0-181ab41c2b8c</testCaseGuid>
+</TestCaseEntity>

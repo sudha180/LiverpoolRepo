@@ -1,0 +1,131 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>a_twitterLogo_twitterPage</name>
+   <tag></tag>
+   <elementGuidId>dc71dad4-3972-4f99-b598-baed88bdc587</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>(.//*[normalize-space(text()) and normalize-space(.)='See new Tweets'])[1]/preceding::a[3]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>a.css-4rbku5.css-18t94o4.css-1dbjc4n.r-1peqgm7.r-42olwf.r-sdzlij.r-1phboty.r-rs99b7.r-1loqt21.r-19yznuf.r-64el8z.r-1ny4l3l.r-o7ynqc.r-6416eg.r-lrvibr</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>a</value>
+      <webElementGuid>cba1e87a-92be-4ec0-89dc-fed54e728622</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>href</name>
+      <type>Main</type>
+      <value>/</value>
+      <webElementGuid>3923e0a5-5e03-45be-bdae-6df13e550dc2</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>aria-label</name>
+      <type>Main</type>
+      <value>Twitter</value>
+      <webElementGuid>3ad1d0eb-761d-4e3e-9b5e-010c9f2ae56c</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>role</name>
+      <type>Main</type>
+      <value>link</value>
+      <webElementGuid>7e884ca0-6351-4a05-9a98-22927d931437</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>css-4rbku5 css-18t94o4 css-1dbjc4n r-1peqgm7 r-42olwf r-sdzlij r-1phboty r-rs99b7 r-1loqt21 r-19yznuf r-64el8z r-1ny4l3l r-o7ynqc r-6416eg r-lrvibr</value>
+      <webElementGuid>bcd6747a-869d-4264-a117-c177cc335a0e</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;react-root&quot;)/div[@class=&quot;css-1dbjc4n r-13awgt0 r-12vffkv&quot;]/div[@class=&quot;css-1dbjc4n r-13awgt0 r-12vffkv&quot;]/div[@class=&quot;css-1dbjc4n r-18u37iz r-13qz1uu r-417010&quot;]/header[@class=&quot;css-1dbjc4n r-obd0qt r-16y2uox r-lrvibr r-1g40b8q&quot;]/div[@class=&quot;css-1dbjc4n r-f9dfq4&quot;]/div[@class=&quot;css-1dbjc4n r-aqfbo4 r-1pi2tsx r-1xcajam r-ipm5af&quot;]/div[@class=&quot;css-1dbjc4n r-1pi2tsx r-1wtj0ep r-1rnoaur r-1e081e0 r-f9dfq4&quot;]/div[@class=&quot;css-1dbjc4n r-1awozwy&quot;]/div[@class=&quot;css-1dbjc4n r-dnmrzs r-1vvnge1&quot;]/h1[@class=&quot;css-4rbku5 css-1dbjc4n r-1awozwy r-1pz39u2 r-1loqt21 r-6koalj r-16y2uox r-1777fci r-4wgw6l&quot;]/a[@class=&quot;css-4rbku5 css-18t94o4 css-1dbjc4n r-1peqgm7 r-42olwf r-sdzlij r-1phboty r-rs99b7 r-1loqt21 r-19yznuf r-64el8z r-1ny4l3l r-o7ynqc r-6416eg r-lrvibr&quot;]</value>
+      <webElementGuid>94f72fef-b996-4619-9ac2-c6fb87a15730</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='react-root']/div/div/div[2]/header/div/div/div/div/div/h1/a</value>
+      <webElementGuid>354c77a1-9884-48c4-a46c-b1801d04341b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Sign up'])[1]/following::a[1]</value>
+      <webElementGuid>5cefd7ca-2973-42e8-bf0d-59c75c8697ee</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Log in'])[1]/following::a[2]</value>
+      <webElementGuid>be069d21-9658-46f8-be9a-3eaccda09fcb</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Liverpool México'])[1]/preceding::a[3]</value>
+      <webElementGuid>2dcce6c1-1775-4453-b893-3af7899e8e07</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='See new Tweets'])[1]/preceding::a[3]</value>
+      <webElementGuid>6457fe1f-0389-48b7-950a-425b1dc4bf72</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:href</name>
+      <type>Main</type>
+      <value>(//a[contains(@href, '/')])[3]</value>
+      <webElementGuid>84b05fc5-f386-4e93-bffc-1ee59dadf6b5</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//h1/a</value>
+      <webElementGuid>cf38f1d6-48f9-4e4e-9c42-595afad6e431</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//a[@href = '/']</value>
+      <webElementGuid>dac74448-7c86-4e74-8a4a-56b133387d8b</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

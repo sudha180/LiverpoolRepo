@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>To verify the UI of Brand Carousel slot in Home Page for anonymous user which is configured in command center/BCC</description>
+   <name>LP_Search(HomePage)_WEB_TC_56</name>
+   <tag>HP</tag>
+   <comment></comment>
+   <testCaseGuid>545ac8fe-b36d-4ab7-b2da-33ead7fc434e</testCaseGuid>
+</TestCaseEntity>

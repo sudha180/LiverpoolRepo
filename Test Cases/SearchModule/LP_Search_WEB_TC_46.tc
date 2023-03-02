@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>To verify that the user is able to select 1 or more facet options by marking the check boxes as checked.</description>
+   <name>LP_Search_WEB_TC_46</name>
+   <tag>search</tag>
+   <comment></comment>
+   <testCaseGuid>a4b66856-b125-4c87-9ae5-6c15ad136d8f</testCaseGuid>
+</TestCaseEntity>

@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>To Verify the UI of home page for logged in user</description>
+   <name>LP_Search(HomePage)_WEB_TC_5</name>
+   <tag>HP</tag>
+   <comment></comment>
+   <testCaseGuid>8f1b5b7b-1545-4809-be2a-7dc79a5c7f96</testCaseGuid>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>caca188a-3204-425c-a1e4-d036f9733c6d</id>
+      <masked>false</masked>
+      <name>plpUrl</name>
+   </variable>
+</TestCaseEntity>

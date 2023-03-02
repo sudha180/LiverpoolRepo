@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>To verify the display of product image in products section of Search Type Ahead in Header</description>
+   <name>LP_Search_WEB_TC_63</name>
+   <tag>search</tag>
+   <comment></comment>
+   <testCaseGuid>f3304ee7-2d25-4bdd-af67-94a7fd12bf46</testCaseGuid>
+</TestCaseEntity>

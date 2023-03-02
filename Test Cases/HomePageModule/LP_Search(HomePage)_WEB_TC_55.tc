@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>To verify that the system allows the user to register from Home Page</description>
+   <name>LP_Search(HomePage)_WEB_TC_55</name>
+   <tag>HP</tag>
+   <comment></comment>
+   <testCaseGuid>caa0433d-1e7b-4287-8142-474d9faed0b5</testCaseGuid>
+</TestCaseEntity>

@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>img_Muebles para bebs_a_banner_img lazyloaded</name>
+   <tag></tag>
+   <elementGuidId>6f25c9d7-f493-4018-8d16-f95a5d3f4878</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='bannerNo-2']/section/div/div[2]/a/picture/img</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>img</value>
+      <webElementGuid>0397d125-1a5e-4e6d-93c1-d70dea946000</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>a_banner_img lazyloaded</value>
+      <webElementGuid>a9a70801-7b17-425f-9dcd-5004ba3e7e52</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>src</name>
+      <type>Main</type>
+      <value>https://assetspwa.liverpool.com.mx/assets/digital/home/img/ago22/bpromo01b_010822blan.jpg</value>
+      <webElementGuid>c71040e5-e29e-4051-9eea-91010c013592</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>alt</name>
+      <type>Main</type>
+      <value>Blancos | Liverpool | Liverpool</value>
+      <webElementGuid>dd4b7446-b8a9-4287-8b8b-1ce64247c06c</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>title</name>
+      <type>Main</type>
+      <value>Blancos | Liverpool</value>
+      <webElementGuid>ca52336d-bbbe-4d31-bd3c-a2e254b95846</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;bannerNo-2&quot;)/section[@class=&quot;o-container-banners my-0&quot;]/div[@class=&quot;o-container-promos&quot;]/div[@class=&quot;m-banners h-450&quot;]/a[@class=&quot;m-mainBanner__link&quot;]/picture[1]/img[@class=&quot;a_banner_img lazyloaded&quot;]</value>
+      <webElementGuid>70a1c230-f0d4-4cb2-aa78-9cc46c5a92c5</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='bannerNo-2']/section/div/div[2]/a/picture/img</value>
+      <webElementGuid>4e273953-944f-4b98-8ee6-dc1e8f5428f0</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:img</name>
+      <type>Main</type>
+      <value>//img[@alt='Blancos | Liverpool | Liverpool']</value>
+      <webElementGuid>1c994b3b-aeef-4625-a3e0-e7fe48342c6a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/a/picture/img</value>
+      <webElementGuid>2a371531-b09b-429a-9d34-2b4936dfd73c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//img[@src = 'https://assetspwa.liverpool.com.mx/assets/digital/home/img/ago22/bpromo01b_010822blan.jpg' and @alt = 'Blancos | Liverpool | Liverpool' and @title = 'Blancos | Liverpool']</value>
+      <webElementGuid>845c5e1c-e590-440b-9a50-9a613ae0b40a</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

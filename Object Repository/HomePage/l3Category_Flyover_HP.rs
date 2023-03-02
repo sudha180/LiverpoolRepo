@@ -1,0 +1,139 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>l3Category_Flyover_HP</name>
+   <tag></tag>
+   <elementGuidId>43977bbb-9b02-47fe-b38c-84f165f9ccba</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//*/text()[normalize-space(.)='Chamarras Abrigos &amp; Chalecos']/parent::*</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>a.a-desktop__subcategoryTitle.subcategoryLevel-3</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>a</value>
+      <webElementGuid>a90e4b20-35b6-431f-865c-73fb2f8df623</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>a-desktop__subcategoryTitle subcategoryLevel-3</value>
+      <webElementGuid>01e59ff5-ebd8-4117-b1ce-d71136e5fffe</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>href</name>
+      <type>Main</type>
+      <value>/tienda/home#!</value>
+      <webElementGuid>8ef017c2-fb65-4037-9a33-2da2331e524e</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Chamarras Abrigos &amp; Chalecos</value>
+      <webElementGuid>6383609f-582d-4f63-87d2-ec2d1307a5de</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;CAT610036&quot;)/div[@class=&quot;container&quot;]/div[@class=&quot;row align-items-top&quot;]/div[@class=&quot;col-lg-8 category-menu&quot;]/div[@class=&quot;row&quot;]/div[@class=&quot;col-lg-4 pb-3&quot;]/ul[@class=&quot;m-desktop-subcategory-list&quot;]/li[1]/a[@class=&quot;a-desktop__subcategoryTitle subcategoryLevel-3&quot;]</value>
+      <webElementGuid>8af6cfd1-61b5-428c-afd1-678f1515527a</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='CAT610036']/div/div[2]/div/div/div/ul/li/a</value>
+      <webElementGuid>5e29e712-d465-4925-87b5-37d69acd4825</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:link</name>
+      <type>Main</type>
+      <value>//a[contains(text(),'Chamarras Abrigos &amp; Chalecos')]</value>
+      <webElementGuid>ebe97a3e-8ca9-4195-b717-2f8e5d88964d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Ropa'])[1]/following::a[1]</value>
+      <webElementGuid>a36931d0-ae86-46f9-bfc6-c2131ccfac2a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Ella'])[2]/following::a[2]</value>
+      <webElementGuid>c5b6edf4-d93b-4cd2-ac14-89b3422f64ee</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Suéteres &amp; Sudaderas'])[1]/preceding::a[1]</value>
+      <webElementGuid>1f7f9783-5077-4b5c-8a4c-55cc6a660f92</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Blusas'])[1]/preceding::a[2]</value>
+      <webElementGuid>1660864f-fcd8-451b-a8f0-f87fc50768cd</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Chamarras Abrigos &amp; Chalecos']/parent::*</value>
+      <webElementGuid>f9d467ca-a217-48d6-ae65-478a381a8a94</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:href</name>
+      <type>Main</type>
+      <value>(//a[contains(@href, '/tienda/home#!')])[4]</value>
+      <webElementGuid>c44a19fc-6f2f-4f5a-ac63-a723ac4a2a52</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div/ul/li/a</value>
+      <webElementGuid>bb1eab61-3d93-424a-aeef-912d0e58c192</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//a[@href = '/tienda/home#!' and (text() = 'Chamarras Abrigos &amp; Chalecos' or . = 'Chamarras Abrigos &amp; Chalecos')]</value>
+      <webElementGuid>d5fbf3de-7f67-4f7f-a3cf-acc25d385135</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

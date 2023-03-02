@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>img__margin-not a-mainBanner__image lazyloaded</name>
+   <tag></tag>
+   <elementGuidId>2bfc2dda-bfbc-40b4-a4e3-abe0b195adbb</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='bannerNo-3']/section/div[3]/a/picture/img</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>img</value>
+      <webElementGuid>02dc7f21-c0a0-4631-b883-c6b73606d7e7</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>margin-not a-mainBanner__image lazyloaded</value>
+      <webElementGuid>907219d6-4aac-410b-b4df-e6496789ac5c</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>data-src</name>
+      <type>Main</type>
+      <value>https://assetspwa.liverpool.com.mx/assets/digital/home/img/ago21/bpromo02c_300821lev.jpg</value>
+      <webElementGuid>3e9c7d71-acc5-45d2-8bf2-0d1598bdab36</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>alt</name>
+      <type>Main</type>
+      <value>Levis | Liverpool</value>
+      <webElementGuid>9451a33f-c206-4b52-8a94-049f2168c104</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>title</name>
+      <type>Main</type>
+      <value>Levis | Liverpool</value>
+      <webElementGuid>23b4ef66-5aae-4dab-a43e-f754e17ea742</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>src</name>
+      <type>Main</type>
+      <value>https://assetspwa.liverpool.com.mx/assets/digital/home/img/ago21/bpromo02c_300821lev.jpg</value>
+      <webElementGuid>fc816ea7-8d89-4ea8-b016-98982f9cc296</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;bannerNo-3&quot;)/section[@class=&quot;o-promoOne container-fluid&quot;]/div[@class=&quot;m-banners&quot;]/a[@class=&quot;m-mainBanner__link&quot;]/picture[@class=&quot;m-mainBanner__picture m-figure&quot;]/img[@class=&quot;margin-not a-mainBanner__image lazyloaded&quot;]</value>
+      <webElementGuid>f42656c3-f1a1-405b-93da-d0bf699e4499</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='bannerNo-3']/section/div[3]/a/picture/img</value>
+      <webElementGuid>7f433b96-2943-4bb8-b19a-4d9ce8cb7f19</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:img</name>
+      <type>Main</type>
+      <value>//img[@alt='Levis | Liverpool']</value>
+      <webElementGuid>614aec4e-1666-43ad-8ece-bdbed3537a1b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[3]/a/picture/img</value>
+      <webElementGuid>6ef0e95c-61b0-417c-8eb4-c3516d0039bf</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//img[@alt = 'Levis | Liverpool' and @title = 'Levis | Liverpool' and @src = 'https://assetspwa.liverpool.com.mx/assets/digital/home/img/ago21/bpromo02c_300821lev.jpg']</value>
+      <webElementGuid>62e8c469-5367-4ad0-a118-5b4f0c744a9a</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_Hola SAMRAJ  Mi Cuenta   Mis Compras   _22d4bf</name>
+   <tag></tag>
+   <elementGuidId>b9d6f24d-846f-4276-969c-e819db37f209</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='__next']/header/div[3]/div[2]/div/div/div/div[5]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>div.o-col.col-lg-auto.d-none.d-lg-flex.text-center.order-lg-4.sessionMinWidth</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>dd70cc9d-be82-49af-8da2-2424f5fcc5f8</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>o-col col-lg-auto d-none d-lg-flex text-center order-lg-4 sessionMinWidth</value>
+      <webElementGuid>e9646c9f-3bd8-4f40-8dd9-7088e38ffe3b</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value> Hola SAMRAJ  Mi Cuenta   Mis Compras   Cupones   Mi tiempo aire   Mis tarjetas   Cerrar sesión   Mi Cuenta   Mis Compras   Cupones   Mi tiempo aire   Mis tarjetas   Cerrar sesión </value>
+      <webElementGuid>f536d88e-deb9-4da5-bfe0-9bc587bb5874</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;__next&quot;)/header[1]/div[@class=&quot;o-header&quot;]/div[@class=&quot;o-container__fluid container-fluid&quot;]/div[@class=&quot;o-container container p-0&quot;]/div[@class=&quot;m-searchBar&quot;]/div[@class=&quot;o-checkout__header o-row row align-items-center no-gutters py-3 py-lg-2&quot;]/div[@class=&quot;o-col col-lg-auto d-none d-lg-flex text-center order-lg-4 sessionMinWidth&quot;]</value>
+      <webElementGuid>710f778c-3632-4097-bc7d-96a605296c38</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='__next']/header/div[3]/div[2]/div/div/div/div[5]</value>
+      <webElementGuid>96a5d588-714b-4f97-8772-a39488b8bd69</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Mis Compras'])[1]/following::div[1]</value>
+      <webElementGuid>c928741b-7396-4285-adaf-2c3bfcf47dc4</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Banana Republic'])[1]/following::div[14]</value>
+      <webElementGuid>7a29cbe0-2258-4e7d-a917-bb8b4a4823bb</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/div/div/div/div[5]</value>
+      <webElementGuid>9cbb3ef4-0608-418c-9eb4-253ffe69f380</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = ' Hola SAMRAJ  Mi Cuenta   Mis Compras   Cupones   Mi tiempo aire   Mis tarjetas   Cerrar sesión   Mi Cuenta   Mis Compras   Cupones   Mi tiempo aire   Mis tarjetas   Cerrar sesión ' or . = ' Hola SAMRAJ  Mi Cuenta   Mis Compras   Cupones   Mi tiempo aire   Mis tarjetas   Cerrar sesión   Mi Cuenta   Mis Compras   Cupones   Mi tiempo aire   Mis tarjetas   Cerrar sesión ')]</value>
+      <webElementGuid>1a74f6cd-db34-49d5-a2fa-dc05c163a628</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

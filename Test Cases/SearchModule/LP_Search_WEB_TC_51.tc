@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>To verify the UI of Search Type Ahead slot</description>
+   <name>LP_Search_WEB_TC_51</name>
+   <tag>search</tag>
+   <comment></comment>
+   <testCaseGuid>bd22fdb3-8db0-4b04-b0ef-a8d2d8dcd577</testCaseGuid>
+</TestCaseEntity>

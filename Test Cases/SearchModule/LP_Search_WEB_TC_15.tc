@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>To verify the display of brands in Categories section of Search Type Ahead in Header</description>
+   <name>LP_Search_WEB_TC_15</name>
+   <tag>search</tag>
+   <comment></comment>
+   <testCaseGuid>9107d7a4-41c2-4c7c-86d2-15839aaf2621</testCaseGuid>
+</TestCaseEntity>

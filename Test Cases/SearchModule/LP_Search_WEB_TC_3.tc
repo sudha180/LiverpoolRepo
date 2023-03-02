@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>To verify the functionality of Price(Low - High) sorting option in Search results page</description>
+   <name>LP_Search_WEB_TC_3</name>
+   <tag>search</tag>
+   <comment></comment>
+   <testCaseGuid>f03ae581-1902-4de6-9487-107b8199fb49</testCaseGuid>
+</TestCaseEntity>

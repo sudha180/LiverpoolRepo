@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>To verify the navigation to the Liverpool landing page  on clicking Pinterest Social Networks link</description>
+   <name>LP_Search(HomePage)_WEB_TC_106</name>
+   <tag>HP</tag>
+   <comment></comment>
+   <testCaseGuid>3c7b2995-27e3-4075-918a-d3e899268a3c</testCaseGuid>
+</TestCaseEntity>

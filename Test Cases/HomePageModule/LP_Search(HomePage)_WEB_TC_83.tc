@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>To verify the navigation to Order History page  on clickingMis Pedidos  link  for an signed-in  customer in customer support footer</description>
+   <name>LP_Search(HomePage)_WEB_TC_83</name>
+   <tag>HP</tag>
+   <comment></comment>
+   <testCaseGuid>acd85c90-1a57-405c-81a7-1e9c970b5b6e</testCaseGuid>
+</TestCaseEntity>

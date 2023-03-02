@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>To verify the functionality of Liverpool logo when the user is in other pages(Not in Home page)</description>
+   <name>LP_Search(HomePage)_WEB_TC_58</name>
+   <tag>HP</tag>
+   <comment></comment>
+   <testCaseGuid>862e0aa4-e11a-4e34-8a08-1239c339e5e0</testCaseGuid>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>100732b8-da76-4ce3-baf9-9f25d281dbe1</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>100732b8-da76-4ce3-baf9-9f25d281dbe1</id>
+      <masked>false</masked>
+      <name>homeUrl</name>
+   </variable>
+</TestCaseEntity>

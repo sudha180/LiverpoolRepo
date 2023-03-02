@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>To verify the display of corresponsing product on right hand sideB77:C80 of type ahead when user mouse hovers on the search term</description>
+   <name>LP_Search_WEB_TC_72</name>
+   <tag>search</tag>
+   <comment></comment>
+   <testCaseGuid>5f049ad5-64fb-4e8a-92a4-8c48b4377a49</testCaseGuid>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>0beeb206-e006-4abc-815a-3bf208c63bdb</variableId>
+   </variableLinks>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>4dd28d86-89e0-4ab0-a232-2d572aa3dee3</variableId>
+   </variableLinks>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>2d82a42b-d7d2-4557-b94e-ea46e248b786</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>0beeb206-e006-4abc-815a-3bf208c63bdb</id>
+      <masked>false</masked>
+      <name>productName_srp</name>
+   </variable>
+   <variable>
+      <defaultValue>'vaso'</defaultValue>
+      <description></description>
+      <id>4dd28d86-89e0-4ab0-a232-2d572aa3dee3</id>
+      <masked>false</masked>
+      <name>searchTerm</name>
+   </variable>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>2d82a42b-d7d2-4557-b94e-ea46e248b786</id>
+      <masked>false</masked>
+      <name>prodName_typeAhead</name>
+   </variable>
+</TestCaseEntity>

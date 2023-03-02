@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>To verify the navigation to Credit System landing page on clicking credit link in customer support footer</description>
+   <name>LP_Search(HomePage)_WEB_TC_81</name>
+   <tag>HP</tag>
+   <comment></comment>
+   <testCaseGuid>b36004f0-b75b-4e0f-80f5-3b041939ea68</testCaseGuid>
+</TestCaseEntity>

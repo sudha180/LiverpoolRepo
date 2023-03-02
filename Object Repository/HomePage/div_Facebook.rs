@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_Facebook</name>
+   <tag></tag>
+   <elementGuidId>043f333d-c259-4cc6-a759-680246ed55e1</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[(text() = 'Facebook' or . = 'Facebook')]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>div.x1n2onr6.x1iyjqo2.x78zum5.x6s0dn4</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>00e7f70e-2812-415f-b5ff-936fdd431f85</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>x1n2onr6 x1iyjqo2 x78zum5 x6s0dn4</value>
+      <webElementGuid>61bddba0-c666-4add-8bdf-d610292bdaeb</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Facebook</value>
+      <webElementGuid>9b1cccaa-6550-450f-acfd-7050e5a52c88</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;mount_0_0_BT&quot;)/div[1]/div[1]/div[@class=&quot;x9f619 x1n2onr6 x1ja2u2z&quot;]/div[2]/div[@class=&quot;x78zum5 x1qughib xh8yej3 xds687c xixxii4 x17qophe x13vifvy xzkaem6&quot;]/div[@class=&quot;x1n2onr6 x1iyjqo2 x78zum5 x6s0dn4&quot;]</value>
+      <webElementGuid>3bdf15e9-b72d-4fd6-83a3-3eee6f820519</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='mount_0_0_BT']/div/div/div/div[2]/div[2]/div</value>
+      <webElementGuid>0d648c45-6823-4ef8-be95-f6495247adb6</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Log in'])[1]/preceding::div[6]</value>
+      <webElementGuid>b6981513-14fe-4096-beb6-208642ca959b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Log in'])[2]/preceding::div[12]</value>
+      <webElementGuid>8dd14a30-288e-4c5d-a06a-1edc188c0fc6</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/div[2]/div</value>
+      <webElementGuid>fe113294-ea2d-4ed8-a4da-a170335dad1c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = 'Facebook' or . = 'Facebook')]</value>
+      <webElementGuid>4722d301-6d10-4fc0-b79a-594701a27f8c</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

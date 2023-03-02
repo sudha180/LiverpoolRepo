@@ -1,0 +1,139 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>a_Concursos y promociones_hp</name>
+   <tag></tag>
+   <elementGuidId>7c9387aa-e877-48ab-8ca7-ee6d784574b2</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='#collapseRefundAndCancel']/div/ul/li[3]/a</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>a</value>
+      <webElementGuid>db00a234-6870-41eb-9e86-5f32a7002663</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>a-footer__link</value>
+      <webElementGuid>2ff0fac1-e167-4461-85ad-247875b9cc47</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>href</name>
+      <type>Main</type>
+      <value>/tienda/promotions</value>
+      <webElementGuid>041b579d-1473-47cd-bb3d-60bbf485407d</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Concursos y promociones</value>
+      <webElementGuid>78157040-92cf-4ad6-8214-906cdd7a8b0a</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;#collapseRefundAndCancel&quot;)/div[@class=&quot;card-body pt-0 pb-lg-0&quot;]/ul[@class=&quot;m-0&quot;]/li[@class=&quot;p-0&quot;]/a[@class=&quot;a-footer__link&quot;]</value>
+      <webElementGuid>4c328033-7033-4c22-9bc0-492f4919d3ee</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='#collapseRefundAndCancel']/div/ul/li[3]/a</value>
+      <webElementGuid>23ce24c4-1d3a-4d8d-9f3c-a195efa33f08</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:link</name>
+      <type>Main</type>
+      <value>//a[contains(text(),'Concursos y promociones')]</value>
+      <webElementGuid>fe8f7905-3d7a-4103-8e44-4e5341c465ba</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Crédito'])[1]/following::a[2]</value>
+      <webElementGuid>04effcd1-8abe-461b-9dbb-f656bb5c0fd8</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Servicios Liverpool'])[1]/following::a[3]</value>
+      <webElementGuid>8aed2aae-36d3-4271-b40a-970a08234cc7</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Diseño de Interiores'])[1]/preceding::a[1]</value>
+      <webElementGuid>4d8b5181-3ae3-40f4-a6f2-c39a014248c3</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Ventas Corporativas'])[1]/preceding::a[2]</value>
+      <webElementGuid>280d04a8-edbc-4190-b79f-31a480fc6489</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Concursos y promociones']/parent::*</value>
+      <webElementGuid>a5a8578c-4be3-4a91-8bf6-37bb1ea6791d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:href</name>
+      <type>Main</type>
+      <value>//a[contains(@href, '/tienda/promotions')]</value>
+      <webElementGuid>622f8989-228b-4cae-933f-72a9e307dca4</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//nav/div/div/div[2]/div/div[2]/div/ul/li[3]/a</value>
+      <webElementGuid>3925b6ba-f5bf-41ad-846e-9308489ab606</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//a[@href = '/tienda/promotions' and (text() = 'Concursos y promociones' or . = 'Concursos y promociones')]</value>
+      <webElementGuid>09e1d266-b960-4fcc-9766-6808e39745a4</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

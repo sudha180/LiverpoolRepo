@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>To verify the functionality when user clicks on product in products section of Search Type ahead in Header</description>
+   <name>LP_Search_WEB_TC_65</name>
+   <tag>search</tag>
+   <comment></comment>
+   <testCaseGuid>64f69761-baea-4aa3-a07c-065804f85200</testCaseGuid>
+</TestCaseEntity>

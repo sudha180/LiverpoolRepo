@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>To verify the navigation to Subscribe to Newsletter  landing page on clicking Subscribe to Newsletter</description>
+   <name>LP_Search(HomePage)_WEB_TC_107</name>
+   <tag>HP</tag>
+   <comment></comment>
+   <testCaseGuid>ce311024-a7a9-4933-b8f6-357a20ecfac5</testCaseGuid>
+</TestCaseEntity>

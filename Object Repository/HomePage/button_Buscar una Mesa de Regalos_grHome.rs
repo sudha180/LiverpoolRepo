@@ -1,0 +1,123 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>button_Buscar una Mesa de Regalos_grHome</name>
+   <tag></tag>
+   <elementGuidId>5461d8f6-f02b-4054-9c55-051006c35dfd</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>(//button[@type='button'])[4]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>button.btnPrimary.btnExtraLarge</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>button</value>
+      <webElementGuid>ed6cf212-c295-46e5-8513-85b9817a430e</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>btnPrimary btnExtraLarge</value>
+      <webElementGuid>a80cc6e0-52c2-441d-948b-01a5779409b5</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>type</name>
+      <type>Main</type>
+      <value>button</value>
+      <webElementGuid>ac67d0c3-3d54-4f29-8f37-f3002ae1b863</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>aria-hidden</name>
+      <type>Main</type>
+      <value>false</value>
+      <webElementGuid>894b7ca2-855d-47ca-9cab-cf267a0d947e</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value> Buscar una Mesa de Regalos </value>
+      <webElementGuid>b26d45a3-fa2e-4e22-9810-766374bd41d7</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;content&quot;)/div[@class=&quot;container-fluid&quot;]/div[@id=&quot;mainBanner&quot;]/div[@id=&quot;mainBanner&quot;]/div[@class=&quot;row&quot;]/div[@class=&quot;col-md-4 col-sm-4 main-buttons nop&quot;]/div[@id=&quot;loginForm&quot;]/div[@id=&quot;loginForm&quot;]/button[@class=&quot;btnPrimary btnExtraLarge&quot;]</value>
+      <webElementGuid>66ee0eaa-c3f5-4249-a4a2-3f2cf27e1294</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>(//button[@type='button'])[4]</value>
+      <webElementGuid>0fddfc2b-845c-49c2-9fe8-1006248f2527</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='loginForm']/button</value>
+      <webElementGuid>ffa1fb84-3b87-4211-8974-8492a9f0a96e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Te escuchamos'])[1]/following::button[1]</value>
+      <webElementGuid>b7d9a4b1-714b-4f99-a7cd-e2fed3013185</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Entrar a mi mesa'])[1]/preceding::button[2]</value>
+      <webElementGuid>30388834-a41b-4223-a94d-4a459c303403</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Buscar una Mesa de Regalos']/parent::*</value>
+      <webElementGuid>efec3a27-02d6-4e3b-9648-4fddd71c9a00</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/button</value>
+      <webElementGuid>e5d9906c-19e9-49d4-9098-1ce99c64b1fd</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//button[@type = 'button' and (text() = ' Buscar una Mesa de Regalos ' or . = ' Buscar una Mesa de Regalos ')]</value>
+      <webElementGuid>44f49bf5-6e8f-4216-9644-e972be6d2f8b</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

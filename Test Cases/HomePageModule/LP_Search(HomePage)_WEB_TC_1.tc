@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>To Verify the UI of home page for logged in user</description>
+   <name>LP_Search(HomePage)_WEB_TC_1</name>
+   <tag>HP</tag>
+   <comment></comment>
+   <testCaseGuid>d21aa1ec-3d02-4281-a307-8a8826f54a6a</testCaseGuid>
+</TestCaseEntity>

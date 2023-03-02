@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>assertListOfItemsInTypeahead_hp</name>
+   <tag></tag>
+   <elementGuidId>f04cc335-82e9-4be3-a6b2-9d9c7e4b3bcb</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>ul.row.p-2</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='__next']/header/div[4]/div[2]/div/div/div/div[3]/div[2]/div/div/div[2]/ul</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>ul</value>
+      <webElementGuid>f1df313a-ac8b-47a8-899b-107713d184a9</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>row p-2</value>
+      <webElementGuid>2963d954-1edc-468a-b578-fad73cca69d0</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>  Asas para Vaso Antigoteo Avent Philips   plato térmico avent philips   Vaso Doble Banquet Transparente   Vaso Entrenador Fisher Prince   Vasos Entrenadores Antiderrames First Years   Vaso con Boquilla para Niño Evenflo   Vaso con Flujo Ajustable Fisher Price   termo de doble pared avanti </value>
+      <webElementGuid>23195df4-5012-4c3d-a61b-54d9589b75e4</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;__next&quot;)/header[1]/div[@class=&quot;o-header&quot;]/div[@class=&quot;o-container__fluid container-fluid&quot;]/div[@class=&quot;o-container container p-0&quot;]/div[@class=&quot;m-searchBar&quot;]/div[@class=&quot;o-checkout__header o-row row align-items-center no-gutters py-3 py-lg-2&quot;]/div[@class=&quot;o-col col-lg order-4 order-lg-2 pt-3 pt-lg-0&quot;]/div[@class=&quot;m-typeahead&quot;]/div[@class=&quot;container&quot;]/div[@class=&quot;row&quot;]/div[@class=&quot;col-lg-8 col-12 d-none d-lg-block&quot;]/ul[@class=&quot;row p-2&quot;]</value>
+      <webElementGuid>19c1b623-b0d5-4cb6-9c0b-e0d2b490fdb2</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='__next']/header/div[4]/div[2]/div/div/div/div[3]/div[2]/div/div/div[2]/ul</value>
+      <webElementGuid>d06b166e-aa9a-4ed6-897d-20b83cd4337d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='HogarNew'])[2]/following::ul[1]</value>
+      <webElementGuid>15880969-df2a-4eb8-b437-e178b45de4cc</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='en'])[5]/following::ul[1]</value>
+      <webElementGuid>0b81e5f2-a906-4df8-9e57-21885aae438b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//ul</value>
+      <webElementGuid>d3f9e6f2-9a4b-4bdc-ab2b-d8593eecf535</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//ul[(text() = '  Asas para Vaso Antigoteo Avent Philips   plato térmico avent philips   Vaso Doble Banquet Transparente   Vaso Entrenador Fisher Prince   Vasos Entrenadores Antiderrames First Years   Vaso con Boquilla para Niño Evenflo   Vaso con Flujo Ajustable Fisher Price   termo de doble pared avanti ' or . = '  Asas para Vaso Antigoteo Avent Philips   plato térmico avent philips   Vaso Doble Banquet Transparente   Vaso Entrenador Fisher Prince   Vasos Entrenadores Antiderrames First Years   Vaso con Boquilla para Niño Evenflo   Vaso con Flujo Ajustable Fisher Price   termo de doble pared avanti ')]</value>
+      <webElementGuid>a4604eaa-172f-495c-9d11-4956eb3d652a</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

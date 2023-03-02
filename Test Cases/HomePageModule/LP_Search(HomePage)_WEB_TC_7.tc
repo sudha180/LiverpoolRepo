@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>To Verify the UI of home page for logged in user</description>
+   <name>LP_Search(HomePage)_WEB_TC_7</name>
+   <tag>HP</tag>
+   <comment></comment>
+   <testCaseGuid>4be49232-49d6-476f-b090-b235f2047a97</testCaseGuid>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>e47addda-7c29-4526-a635-8716e13235d9</id>
+      <masked>false</masked>
+      <name>productName_plp</name>
+   </variable>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>56445119-3cd9-480e-9d4d-83e7eb2f6e33</id>
+      <masked>false</masked>
+      <name>productNameActual_pdp</name>
+   </variable>
+</TestCaseEntity>

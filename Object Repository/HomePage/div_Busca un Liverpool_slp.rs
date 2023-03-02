@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_Busca un Liverpool_slp</name>
+   <tag></tag>
+   <elementGuidId>9812acda-90bf-4274-a788-6ded57c160a0</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='__next']/div/div/div[2]/aside/div</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>div.o-storeLocator-aside.d-none.d-lg-block</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>b0ade0f4-876c-40b8-a0df-8bd30cc417c8</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>o-storeLocator-aside d-none d-lg-block</value>
+      <webElementGuid>fe442c77-7b42-46e2-bf57-9b0101ba8d8d</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Busca un Liverpool, Centro comercial o Dutty freeAGUASCALIENTESBAJA CALIFORNIABAJA CALIFORNIA SURCAMPECHECOAHUILACOLIMACHIAPASCHIHUAHUACDMX/ZONA METROPOLITANADURANGOGUANAJUATOGUERREROHIDALGOJALISCOMÉXICOMICHOACÁNMORELOSNAYARITNUEVO LEÓNOAXACAPUEBLAQUERÉTAROQUINTANA ROOSAN LUIS POTOSÍSINALOASONORATABASCOTAMAULIPASTLAXCALAVERACRUZYUCATÁNZACATECASSeleccione estadoLiverpoolDuty FreeCentros ComercialesFiltrar por tipo de tienda  Duty Free Los Cabos   Liverpool Acapulco La Isla   Liverpool Ags. Altaria   Liverpool Altabrisa   Liverpool Andares   Liverpool Angelópolis   Liverpool Antea   Liverpool Atlixco   Liverpool C&amp;C Champotón   Liverpool Cancún   Liverpool Cd. Juárez Las Misiones   Liverpool Centro   Liverpool Ciudad Victoria   Liverpool Coatzacoalcos   Liverpool Colima   Liverpool Culiacán   Liverpool Durango   Liverpool Fresnillo   Liverpool Galerías Atizapán   Liverpool Galerías Atizapán   Liverpool Galerías Campeche   Liverpool Galerías Celaya   Liverpool Galerías Cuernavaca   Liverpool Galerías Hermosillo   Liverpool Galerías Monterrey   Liverpool Galerías Mérida   Liverpool Galerías Saltillo   Liverpool Galerías Tabasco   Liverpool Galerías Zacatecas   Liverpool Hermosillo Encinas   Liverpool La Paz   Liverpool Mazatlán   Liverpool Mexicali   Liverpool Monterrey Esfera   Liverpool Morelia Altozano   Liverpool Mérida la Isla Cabo Norte   Liverpool Pachuca   Liverpool Parque Las Antenas   Liverpool Parque Las Antenas   Liverpool Parque Puebla   Liverpool Paseo Interlomas   Liverpool Paseo Interlomas   Liverpool Paseo Querétaro   Liverpool Salina Cruz   Liverpool San Luis Potosí   Liverpool Tepic   Liverpool Tlaxcala   Liverpool Toreo   Liverpool Toreo   Liverpool Tuxtla   Liverpool Tuxtla Oriente   Liverpool Zamora   Liverpool Ags. Villasunción   Liverpool C&amp;C Paraíso   Liverpool C&amp;C Tepatitlán   Liverpool C&amp;C Tulum   Liverpool C&amp;C Valladolid   Liverpool C&amp;C Zihuatanejo   Liverpool Cd. Jardín   Liverpool Cd. Jardín   Liverpool Cd. Obregón   Liverpool Cd. del Carmen   Liverpool Chetumal   Liverpool Chihuahua Fashion Mall   Liverpool Cuautla   Liverpool Galerías Chilpancingo   Liverpool Galerías Coapa   Liverpool Galerías Guadalajara   Liverpool Galerías Querétaro   Liverpool Galerías Serdán   Liverpool Irapuato Plaza Cibeles   Liverpool La Perla   Liverpool Los Mochis   Liverpool Monterrey Centro   Liverpool Monterrey la Fe   Liverpool Morelia Las Américas   Liverpool Oaxaca   Liverpool Oaxaca Plaza Bella   Liverpool Orizaba   Liverpool Salamanca   Liverpool San Luis El Dorado   Liverpool Tampico   Liverpool Tampico Altama   Liverpool Tapachula   Liverpool Tepic Centro   Liverpool Tlalnepantla   Liverpool Tlalnepantla   Liverpool Torreón   Liverpool Acapulco Galerías   Liverpool Chihuahua Presidentes   Liverpool Comitán   Liverpool Galerías Insurgentes   Liverpool Galerías Puerto Vallarta   Liverpool Galerías San Juan del Rio   Liverpool Guanajuato   Liverpool León Altacia   Liverpool Monterrey Cumbres   Liverpool Playa del Carmen   Liverpool Tehuacán   Liverpool Tuxpan   Liverpool Villahermosa Crystal   Liverpool C&amp;C Coatepec   Liverpool Ecatepec   Liverpool Ecatepec   Liverpool León Plaza Mayor   Liverpool Lindavista   Liverpool Lindavista   Liverpool Mazatlán Centro   Liverpool Monterrey Valle   Liverpool Oblatos Guadalajara   Liverpool Puebla Crystal   Liverpool Veracruz El Dorado   Liverpool C&amp;C Lagos de Moreno   Liverpool Galerías Metepec   Liverpool Parque Delta   Liverpool San Miguel de Allende   Liverpool Tlaquepaque   Liverpool Veracruz Plaza Américas   Liverpool Galerías Perinorte   Liverpool Galerías Perinorte   Liverpool Gran Plaza   Liverpool Perisur   Liverpool Xalapa Plaza Américas   Liverpool Coatzacoalcos Crystal   Liverpool Guadalajara Centro   Liverpool Polanco   Liverpool Satélite   Liverpool Satélite   Liverpool Córdoba Crystal   Liverpool Galerías Santa Anita   Liverpool Galerías Toluca   Liverpool Plaza Patria   Liverpool Santa Fe   Liverpool Santa Fe   UBICACION 4 DIGITOS   Liverpool Poza Rica   Liverpool Tecámac   Liverpool Tezontle   Liverpool Tezontle   Liverpool Veracruz Mocambo   Liverpool Coacalco   Liverpool Coacalco   Liverpool Monclova   Liverpool Xalapa Plaza Crystal   Liverpool C&amp;C San Cristóbal de las Casas   Liverpool C&amp;C Villaflores   Liverpool Tijuana </value>
+      <webElementGuid>fec8fccf-c98f-4b0e-9e55-7f9a9fcc23e9</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;__next&quot;)/div[@class=&quot;container-fluid&quot;]/div[@class=&quot;container p-0&quot;]/div[@class=&quot;row mt-lg-3 mb-lg-5 mb-0&quot;]/aside[@class=&quot;col-lg-4&quot;]/div[@class=&quot;o-storeLocator-aside d-none d-lg-block&quot;]</value>
+      <webElementGuid>4262a6fa-c7f2-4d9a-b93e-d710ce0f9fce</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='__next']/div/div/div[2]/aside/div</value>
+      <webElementGuid>06bb9fc4-4503-4894-9204-6593d2f1db10</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Tiendas'])[2]/following::div[2]</value>
+      <webElementGuid>51c939d3-3666-4ff6-bcc4-c8168b10910e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Home'])[1]/following::div[2]</value>
+      <webElementGuid>52090967-1c10-438f-98fd-424e2f21a36b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//aside/div</value>
+      <webElementGuid>b99cf193-333c-47c4-9116-5ee37db84a05</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = 'Busca un Liverpool, Centro comercial o Dutty freeAGUASCALIENTESBAJA CALIFORNIABAJA CALIFORNIA SURCAMPECHECOAHUILACOLIMACHIAPASCHIHUAHUACDMX/ZONA METROPOLITANADURANGOGUANAJUATOGUERREROHIDALGOJALISCOMÉXICOMICHOACÁNMORELOSNAYARITNUEVO LEÓNOAXACAPUEBLAQUERÉTAROQUINTANA ROOSAN LUIS POTOSÍSINALOASONORATABASCOTAMAULIPASTLAXCALAVERACRUZYUCATÁNZACATECASSeleccione estadoLiverpoolDuty FreeCentros ComercialesFiltrar por tipo de tienda  Duty Free Los Cabos   Liverpool Acapulco La Isla   Liverpool Ags. Altaria   Liverpool Altabrisa   Liverpool Andares   Liverpool Angelópolis   Liverpool Antea   Liverpool Atlixco   Liverpool C&amp;C Champotón   Liverpool Cancún   Liverpool Cd. Juárez Las Misiones   Liverpool Centro   Liverpool Ciudad Victoria   Liverpool Coatzacoalcos   Liverpool Colima   Liverpool Culiacán   Liverpool Durango   Liverpool Fresnillo   Liverpool Galerías Atizapán   Liverpool Galerías Atizapán   Liverpool Galerías Campeche   Liverpool Galerías Celaya   Liverpool Galerías Cuernavaca   Liverpool Galerías Hermosillo   Liverpool Galerías Monterrey   Liverpool Galerías Mérida   Liverpool Galerías Saltillo   Liverpool Galerías Tabasco   Liverpool Galerías Zacatecas   Liverpool Hermosillo Encinas   Liverpool La Paz   Liverpool Mazatlán   Liverpool Mexicali   Liverpool Monterrey Esfera   Liverpool Morelia Altozano   Liverpool Mérida la Isla Cabo Norte   Liverpool Pachuca   Liverpool Parque Las Antenas   Liverpool Parque Las Antenas   Liverpool Parque Puebla   Liverpool Paseo Interlomas   Liverpool Paseo Interlomas   Liverpool Paseo Querétaro   Liverpool Salina Cruz   Liverpool San Luis Potosí   Liverpool Tepic   Liverpool Tlaxcala   Liverpool Toreo   Liverpool Toreo   Liverpool Tuxtla   Liverpool Tuxtla Oriente   Liverpool Zamora   Liverpool Ags. Villasunción   Liverpool C&amp;C Paraíso   Liverpool C&amp;C Tepatitlán   Liverpool C&amp;C Tulum   Liverpool C&amp;C Valladolid   Liverpool C&amp;C Zihuatanejo   Liverpool Cd. Jardín   Liverpool Cd. Jardín   Liverpool Cd. Obregón   Liverpool Cd. del Carmen   Liverpool Chetumal   Liverpool Chihuahua Fashion Mall   Liverpool Cuautla   Liverpool Galerías Chilpancingo   Liverpool Galerías Coapa   Liverpool Galerías Guadalajara   Liverpool Galerías Querétaro   Liverpool Galerías Serdán   Liverpool Irapuato Plaza Cibeles   Liverpool La Perla   Liverpool Los Mochis   Liverpool Monterrey Centro   Liverpool Monterrey la Fe   Liverpool Morelia Las Américas   Liverpool Oaxaca   Liverpool Oaxaca Plaza Bella   Liverpool Orizaba   Liverpool Salamanca   Liverpool San Luis El Dorado   Liverpool Tampico   Liverpool Tampico Altama   Liverpool Tapachula   Liverpool Tepic Centro   Liverpool Tlalnepantla   Liverpool Tlalnepantla   Liverpool Torreón   Liverpool Acapulco Galerías   Liverpool Chihuahua Presidentes   Liverpool Comitán   Liverpool Galerías Insurgentes   Liverpool Galerías Puerto Vallarta   Liverpool Galerías San Juan del Rio   Liverpool Guanajuato   Liverpool León Altacia   Liverpool Monterrey Cumbres   Liverpool Playa del Carmen   Liverpool Tehuacán   Liverpool Tuxpan   Liverpool Villahermosa Crystal   Liverpool C&amp;C Coatepec   Liverpool Ecatepec   Liverpool Ecatepec   Liverpool León Plaza Mayor   Liverpool Lindavista   Liverpool Lindavista   Liverpool Mazatlán Centro   Liverpool Monterrey Valle   Liverpool Oblatos Guadalajara   Liverpool Puebla Crystal   Liverpool Veracruz El Dorado   Liverpool C&amp;C Lagos de Moreno   Liverpool Galerías Metepec   Liverpool Parque Delta   Liverpool San Miguel de Allende   Liverpool Tlaquepaque   Liverpool Veracruz Plaza Américas   Liverpool Galerías Perinorte   Liverpool Galerías Perinorte   Liverpool Gran Plaza   Liverpool Perisur   Liverpool Xalapa Plaza Américas   Liverpool Coatzacoalcos Crystal   Liverpool Guadalajara Centro   Liverpool Polanco   Liverpool Satélite   Liverpool Satélite   Liverpool Córdoba Crystal   Liverpool Galerías Santa Anita   Liverpool Galerías Toluca   Liverpool Plaza Patria   Liverpool Santa Fe   Liverpool Santa Fe   UBICACION 4 DIGITOS   Liverpool Poza Rica   Liverpool Tecámac   Liverpool Tezontle   Liverpool Tezontle   Liverpool Veracruz Mocambo   Liverpool Coacalco   Liverpool Coacalco   Liverpool Monclova   Liverpool Xalapa Plaza Crystal   Liverpool C&amp;C San Cristóbal de las Casas   Liverpool C&amp;C Villaflores   Liverpool Tijuana ' or . = 'Busca un Liverpool, Centro comercial o Dutty freeAGUASCALIENTESBAJA CALIFORNIABAJA CALIFORNIA SURCAMPECHECOAHUILACOLIMACHIAPASCHIHUAHUACDMX/ZONA METROPOLITANADURANGOGUANAJUATOGUERREROHIDALGOJALISCOMÉXICOMICHOACÁNMORELOSNAYARITNUEVO LEÓNOAXACAPUEBLAQUERÉTAROQUINTANA ROOSAN LUIS POTOSÍSINALOASONORATABASCOTAMAULIPASTLAXCALAVERACRUZYUCATÁNZACATECASSeleccione estadoLiverpoolDuty FreeCentros ComercialesFiltrar por tipo de tienda  Duty Free Los Cabos   Liverpool Acapulco La Isla   Liverpool Ags. Altaria   Liverpool Altabrisa   Liverpool Andares   Liverpool Angelópolis   Liverpool Antea   Liverpool Atlixco   Liverpool C&amp;C Champotón   Liverpool Cancún   Liverpool Cd. Juárez Las Misiones   Liverpool Centro   Liverpool Ciudad Victoria   Liverpool Coatzacoalcos   Liverpool Colima   Liverpool Culiacán   Liverpool Durango   Liverpool Fresnillo   Liverpool Galerías Atizapán   Liverpool Galerías Atizapán   Liverpool Galerías Campeche   Liverpool Galerías Celaya   Liverpool Galerías Cuernavaca   Liverpool Galerías Hermosillo   Liverpool Galerías Monterrey   Liverpool Galerías Mérida   Liverpool Galerías Saltillo   Liverpool Galerías Tabasco   Liverpool Galerías Zacatecas   Liverpool Hermosillo Encinas   Liverpool La Paz   Liverpool Mazatlán   Liverpool Mexicali   Liverpool Monterrey Esfera   Liverpool Morelia Altozano   Liverpool Mérida la Isla Cabo Norte   Liverpool Pachuca   Liverpool Parque Las Antenas   Liverpool Parque Las Antenas   Liverpool Parque Puebla   Liverpool Paseo Interlomas   Liverpool Paseo Interlomas   Liverpool Paseo Querétaro   Liverpool Salina Cruz   Liverpool San Luis Potosí   Liverpool Tepic   Liverpool Tlaxcala   Liverpool Toreo   Liverpool Toreo   Liverpool Tuxtla   Liverpool Tuxtla Oriente   Liverpool Zamora   Liverpool Ags. Villasunción   Liverpool C&amp;C Paraíso   Liverpool C&amp;C Tepatitlán   Liverpool C&amp;C Tulum   Liverpool C&amp;C Valladolid   Liverpool C&amp;C Zihuatanejo   Liverpool Cd. Jardín   Liverpool Cd. Jardín   Liverpool Cd. Obregón   Liverpool Cd. del Carmen   Liverpool Chetumal   Liverpool Chihuahua Fashion Mall   Liverpool Cuautla   Liverpool Galerías Chilpancingo   Liverpool Galerías Coapa   Liverpool Galerías Guadalajara   Liverpool Galerías Querétaro   Liverpool Galerías Serdán   Liverpool Irapuato Plaza Cibeles   Liverpool La Perla   Liverpool Los Mochis   Liverpool Monterrey Centro   Liverpool Monterrey la Fe   Liverpool Morelia Las Américas   Liverpool Oaxaca   Liverpool Oaxaca Plaza Bella   Liverpool Orizaba   Liverpool Salamanca   Liverpool San Luis El Dorado   Liverpool Tampico   Liverpool Tampico Altama   Liverpool Tapachula   Liverpool Tepic Centro   Liverpool Tlalnepantla   Liverpool Tlalnepantla   Liverpool Torreón   Liverpool Acapulco Galerías   Liverpool Chihuahua Presidentes   Liverpool Comitán   Liverpool Galerías Insurgentes   Liverpool Galerías Puerto Vallarta   Liverpool Galerías San Juan del Rio   Liverpool Guanajuato   Liverpool León Altacia   Liverpool Monterrey Cumbres   Liverpool Playa del Carmen   Liverpool Tehuacán   Liverpool Tuxpan   Liverpool Villahermosa Crystal   Liverpool C&amp;C Coatepec   Liverpool Ecatepec   Liverpool Ecatepec   Liverpool León Plaza Mayor   Liverpool Lindavista   Liverpool Lindavista   Liverpool Mazatlán Centro   Liverpool Monterrey Valle   Liverpool Oblatos Guadalajara   Liverpool Puebla Crystal   Liverpool Veracruz El Dorado   Liverpool C&amp;C Lagos de Moreno   Liverpool Galerías Metepec   Liverpool Parque Delta   Liverpool San Miguel de Allende   Liverpool Tlaquepaque   Liverpool Veracruz Plaza Américas   Liverpool Galerías Perinorte   Liverpool Galerías Perinorte   Liverpool Gran Plaza   Liverpool Perisur   Liverpool Xalapa Plaza Américas   Liverpool Coatzacoalcos Crystal   Liverpool Guadalajara Centro   Liverpool Polanco   Liverpool Satélite   Liverpool Satélite   Liverpool Córdoba Crystal   Liverpool Galerías Santa Anita   Liverpool Galerías Toluca   Liverpool Plaza Patria   Liverpool Santa Fe   Liverpool Santa Fe   UBICACION 4 DIGITOS   Liverpool Poza Rica   Liverpool Tecámac   Liverpool Tezontle   Liverpool Tezontle   Liverpool Veracruz Mocambo   Liverpool Coacalco   Liverpool Coacalco   Liverpool Monclova   Liverpool Xalapa Plaza Crystal   Liverpool C&amp;C San Cristóbal de las Casas   Liverpool C&amp;C Villaflores   Liverpool Tijuana ')]</value>
+      <webElementGuid>97b8a28e-4236-47d7-97a6-2c62dd171d1f</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

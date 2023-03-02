@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>figure_Cartera para Dama DKNY1,669001,05147</name>
+   <tag></tag>
+   <elementGuidId>c85d9831-2bce-46e2-886e-1e2b2b4a7699</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='carouselNo-1']/div[2]/div[2]/div/div[8]/div/div/a/figure</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>figure</value>
+      <webElementGuid>c4f51f1c-34e8-4cbe-8358-bcbb05360c79</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>card m-card ma-figure</value>
+      <webElementGuid>0929cb4b-116f-40a7-a7f7-df90416c8670</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value> Cartera para Dama DKNY$1,66900$1,05147</value>
+      <webElementGuid>a230405a-b772-4e9b-8911-e2774a54a718</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;carouselNo-1&quot;)/div[@class=&quot;slick-slider slick-initialized&quot;]/div[@class=&quot;slick-list&quot;]/div[@class=&quot;slick-track&quot;]/div[@class=&quot;slick-slide slick-active&quot;]/div[1]/div[@class=&quot;item&quot;]/a[1]/figure[@class=&quot;card m-card ma-figure&quot;]</value>
+      <webElementGuid>717247b1-844a-4877-be11-ed165d270193</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='carouselNo-1']/div[2]/div[2]/div/div[8]/div/div/a/figure</value>
+      <webElementGuid>a11d7c9e-0d1f-436b-a79c-318fe7288be3</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Ver más'])[1]/following::figure[8]</value>
+      <webElementGuid>552e45b1-6c6c-4bbe-8f37-ee74494aaa56</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Mueblespara bebés'])[1]/preceding::figure[23]</value>
+      <webElementGuid>cf6c03ed-4749-4bd8-b9e4-ebd65fabfbfc</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='%'])[2]/preceding::figure[23]</value>
+      <webElementGuid>c39978c5-bfa4-45c6-89f5-6016236def12</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[8]/div/div/a/figure</value>
+      <webElementGuid>7129d0f2-d9e2-429e-a9c5-d47b0d9b8de5</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//figure[(text() = ' Cartera para Dama DKNY$1,66900$1,05147' or . = ' Cartera para Dama DKNY$1,66900$1,05147')]</value>
+      <webElementGuid>8ded0fa8-1a95-4fe6-b995-3fdbde657a92</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

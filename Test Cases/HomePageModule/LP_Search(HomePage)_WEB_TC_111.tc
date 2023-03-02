@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>To verify the navigation to the About Us page on clicking About link in  Footer</description>
+   <name>LP_Search(HomePage)_WEB_TC_111</name>
+   <tag>HP</tag>
+   <comment></comment>
+   <testCaseGuid>fec11547-ff53-41bf-bdbf-9cd27c44afdb</testCaseGuid>
+</TestCaseEntity>
